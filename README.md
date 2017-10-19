@@ -20,6 +20,8 @@ Full paper available at: https://arxiv.org/pdf/1411.4555.pdf.
 
 ## Usage
 
+First download the checkpoints from [here](https://drive.google.com/open?id=0B0y_LfAt0SaEZ3JxRnJTQ05VUkU). Then create im2txt/model directory and paste the extracted checkpoints there. Then ..
+
 Run
 
 ```
@@ -48,44 +50,3 @@ After clicking the run button it will take some time before displaying caption o
 * pyqt5
 * nltk and other dependencies as mentioned [here](https://github.com/tensorflow/models/tree/master/research/im2txt)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Credit
-
-
-
-
-# show_and_tell_gui
-# show_and_tell_gui
-# show_and_tell_gui
